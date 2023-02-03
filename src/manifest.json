@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "version": "0.0.1",
+  "name": "Daily crypto",
+  "description": "Tool that displays real-time cryptocurrency prices in a new tab",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "icons": {
+    "128": "icon-128.png"
+  }
+}
